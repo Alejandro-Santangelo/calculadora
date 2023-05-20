@@ -28,5 +28,5 @@ elif operacion == "suma":
 else:
     print("Operación no válida")
 
-    print('CHAU')
+    
 
